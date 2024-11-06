@@ -1,6 +1,3 @@
-Certainly! Here’s the complete `README.md` file with all sections included for your GitHub project:
-
-```markdown
 # Meteor Blaster
 
 **Meteor Blaster** is an arcade-style space shooter game developed in Python using the Pygame library. Players control a spaceship to destroy meteors and dodge obstacles, aiming to achieve high scores. The game includes power-ups, customizable aesthetics, and sounds to enhance gameplay.
@@ -26,9 +23,9 @@ Certainly! Here’s the complete `README.md` file with all sections included for
 
 Install Pygame with:
 
-```bash
+bash
 pip install pygame
-```
+
 
 ### Running the Game
 
@@ -36,9 +33,9 @@ pip install pygame
 2. Navigate to the project folder.
 3. Run the game with the following command:
 
-   ```bash
+bash
    python meteor_blaster.py
-   ```
+
 
 ---
 
@@ -106,6 +103,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 Enjoy the game, and aim for a high score!
-```
-
-This `README.md` file covers all aspects of your game project, from features and controls to assets, future improvements, and troubleshooting, making it comprehensive and ready for your GitHub repository.
