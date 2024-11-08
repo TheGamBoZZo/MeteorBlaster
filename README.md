@@ -68,10 +68,6 @@ bash
 ---
 
 ## Assets
-
-- **Spaceship Image**: `assets/spaceship.png` (recommended size: around 40x40 pixels for a balance between visibility and gameplay)
-- **Meteor Images**: `assets/rotationY1.png` through `assets/rotationY21.png`, each varying slightly for realism
-- **Golden Star Image**: `assets/star.png` (representing the rapid-fire power-up)
 - **Sound Files**:
   - **Background Music**: `assets/music.mp3`
   - **Collision Sound**: `assets/crash.wav`
